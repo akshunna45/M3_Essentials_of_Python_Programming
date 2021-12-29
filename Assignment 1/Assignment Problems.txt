@@ -1,0 +1,29 @@
+Decision Making:- 
+
+1. Biggest of three/four numbers 
+2. Check if given number is armstrong or not 
+3. Reverse the number 
+4. Sum of digits 
+5. GCD of two numbers 
+6. LCM without computing GCD 
+7. Check if given year is Leap year or not 
+8. Type of triangle - equilateral, isosceles, scalene, right angled 
+9. Roots of a quadratic equation 
+10. Quadrant of a given point (x,y) 
+11. Choice based arithmetic operation
+12. Check if given character is vowel or consonant 
+
+Loops:- 
+
+1. Digital root of a given number, 7895 -> 29 -> 11 -> 2 
+2. List/count of prime numbers for given range 
+3. Sum of triangular numbers, n=4, 1 + (1+2) + (1+2+3) + (1+2+3+4) = 20 
+4. Maximum number by deleting single digit in a 4 digit number 5872 - 872, 9865 - 985 
+5. Generate super prime numbers 
+6. No.of combinations for n teams to play each other, i.e. nCr 
+7. Generate number triangle
+8. Generate number pascal triangle 
+9. Fibonacci sequence
+10. Tribonacci series 
+11. Factorial of a given number 
+12. Sum of the factors, n=30, 1+2+3+5+6+10+15
